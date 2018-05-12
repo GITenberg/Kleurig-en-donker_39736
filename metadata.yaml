@@ -1,0 +1,31 @@
+_repo: Kleurig-en-donker_39736
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39736-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Amsterdam, Willem van
+    aliases:
+    - Van Amsterdam, Willem
+    - Amsterdam, W. van
+    gutenberg_agent_id: '40188'
+    url: http://www.gutenberg.org/2009/agents/40188
+description: ''
+gutenberg_issued: '2012-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39736'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Dutch'
+- !lcc 'PT'
+- !lcsh 'Dutch fiction'
+tableOfContents: Aan de voordeur -- Het straatorgel -- Eddy -- Haar brood -- Kinderleed
+  -- Karel Jan Vonk -- De oudste -- Het klooster der Witte Vrouwe -- Haar keuze --
+  Blok's Vrouw -- Geen "Verrajer" -- De aanspreker -- Derde Klasse.
+title: Kleurig en donker
+url: http://www.gutenberg.org/ebooks/39736
